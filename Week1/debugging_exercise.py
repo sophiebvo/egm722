@@ -19,4 +19,4 @@ while guess != rand:  # if the guess is not equal to the random number, you have
 
 n += 1
 print('You got it! The number was {}'.format(rand))
-print(f'You guessed the correct number in {n} number of guesses.')
+print(f'You guessed the correct number in {n} guesses.')
